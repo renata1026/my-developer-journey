@@ -129,7 +129,19 @@ const leapYear = (years) => {
 };
 ```
 Write a function which takes a ROT13 encoded string as input and returns a decoded string.
+charCode: This is the ASCII code of the uppercase letter that we want to decode (e.g., 'A' has an ASCII code of 65, 'B' has an ASCII code of 66, and so on).
 
+charCode - 65: We subtract 65 from the character's ASCII code. This step is done to bring the range of characters from 'A' to 'Z' into the range 0 to 25.
+
+charCode - 65 - 13: We subtract 13 from the result of step 2. This step is the core of the ROT13 decoding algorithm. Subtracting 13 effectively reverses the ROT13 encryption process.
+
+charCode - 65 - 13 + 26: After step 3, we add 26 to handle any negative values that might result. This is because we want to ensure that the result stays within the range of 0 to 25.
+
+(charCode - 65 - 13 + 26) % 26: Taking the modulo 26 of the result in step 4 ensures that the value wraps around in the range of 0 to 25. For example, if the result is 30, taking modulo 26 will give us 4, which corresponds to the letter 'E'.
+
+(charCode - 65 - 13 + 26) % 26 + 65: Finally, we add 65 to the result in step 5. This brings the range of characters back to the ASCII code values of 'A' to 'Z'.
+
+By performing these steps, we can correctly decode a ROT13 encoded uppercase letter back to its original letter. The same process can be applied to decode the entire ROT13 encoded string.
 ```
 const rot13 = (message) => {
   return message
