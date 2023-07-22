@@ -128,3 +128,22 @@ const leapYear = (years) => {
   return str.split(/[+\-]/).reduce((a, b) => parseFloat(a) + parseFloat(b));
 };
 ```
+Write a function which takes a ROT13 encoded string as input and returns a decoded string.
+
+```
+const rot13 = (message) => {
+  return message
+    .split("")
+    .map((char) => {
+      const charCode = char.charCodeAt(0);
+
+      if (char >= "A" && char <= "Z") {
+        const decodedCharCode = ((charCode - 65 - 13 + 26) % 26) + 65;
+        return String.fromCharCode(decodedCharCode);
+      } else {
+        return char;
+      }
+    })
+    .join("");
+};
+```
