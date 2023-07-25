@@ -7,6 +7,6 @@
 
 [July 22 2023 - Attended a Mock Tech Interview & Practiced some questions](https://github.com/renata1026/my-developer-journey/blob/main/July-22-2023.md)
 
-[July 23 2023 - Attended a Mock Tech Interview & Practiced some questions](https://github.com/renata1026/my-developer-journey/blob/main/July-23-2023.md)
+[July 23 2023 - Problem solving alogrithims with Grokker](https://github.com/renata1026/my-developer-journey/blob/main/July-23-2023.md)
 
-[July 24 2023 - Attended a Mock Tech Interview & Practiced some questions](https://github.com/renata1026/my-developer-journey/blob/main/July-24-2023.md)
+[July 24 2023 - HTML prework for fullstack bootcamp](https://github.com/renata1026/my-developer-journey/blob/main/July-24-2023.md)
