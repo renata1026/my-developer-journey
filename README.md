@@ -15,4 +15,4 @@
 
 [July 26 2023 - HTML prework for fullstack bootcamp](https://github.com/renata1026/my-developer-journey/blob/main/July-26-2023.md)
 
-[July 26 2023 - Reviewed React props and mapping and did challenge questions](https://github.com/renata1026/my-developer-journey/blob/main/July-26-2023.md)
+[July 27 2023 - Reviewed React props and mapping and did challenge questions](https://github.com/renata1026/my-developer-journey/blob/main/July-27-2023.md)
