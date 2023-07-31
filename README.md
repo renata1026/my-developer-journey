@@ -1,5 +1,7 @@
 # my-developer-journey
 
+[July 30 2023 - Reviewed scrimba problem solving questions](https://github.com/renata1026/my-developer-journey/blob/main/July-30-2023.md)
+
 [July 28 2023 - Reviewed scrimba problem solving questions](https://github.com/renata1026/my-developer-journey/blob/main/July-28-2023.md)
 
 [July 27 2023 - Reviewed React props and mapping and did challenge questions](https://github.com/renata1026/my-developer-journey/blob/main/July-27-2023.md)
