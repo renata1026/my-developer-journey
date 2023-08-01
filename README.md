@@ -1,5 +1,7 @@
 # my-developer-journey
 
+[July 31 2023 - Day 1 of Fullstack bootcamp. Deployed a fan site](https://github.com/renata1026/my-developer-journey/blob/main/July-31-2023.md)
+
 [July 30 2023 - Reviewed scrimba React tutorial building a meme](https://github.com/renata1026/my-developer-journey/blob/main/July-30-2023.md)
 
 [July 28 2023 - Reviewed scrimba problem solving questions](https://github.com/renata1026/my-developer-journey/blob/main/July-28-2023.md)
