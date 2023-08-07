@@ -1,4 +1,5 @@
 # my-developer-journey
+[Aug 4 2023 - Built a wikipedia clone. Reveiwed basic JavaScript, ES6, and basic Algrothims freecodecamp](https://github.com/renata1026/my-developer-journey/blob/main/Aug-2-2023.md)
 
 [Aug 4 2023 - Day 4 of Fullstack bootcamp. Building a wikipedia clone](https://github.com/renata1026/my-developer-journey/blob/main/Aug-2-2023.md)
 
