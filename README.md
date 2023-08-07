@@ -1,5 +1,7 @@
 # my-developer-journey
 
+[Aug 4 2023 - Day 4 of Fullstack bootcamp. Building a wikipedia clone(https://github.com/renata1026/my-developer-journey/blob/main/Aug-2-2023.md)
+
 [Aug 2 2023 - Day 3 of Fullstack bootcamp. Built a froggie site utilizing basic flexbox principles](https://github.com/renata1026/my-developer-journey/blob/main/Aug-2-2023.md)
 
 [Aug 1 2023 - Day 2 of Fullstack bootcamp. Built a Game of Thrones site](https://github.com/renata1026/my-developer-journey/blob/main/Aug-1-2023.md)
