@@ -1,6 +1,6 @@
 # my-developer-journey
 
-[Aug 7 2023 - Created an ASCII art ](https://github.com/renata1026/my-developer-journey/blob/main/Aug-7-2023.md)
+[Aug 7 2023 - Week 2 Day 1 Created an ASCII art ](https://github.com/renata1026/my-developer-journey/blob/main/Aug-7-2023.md)
 
 [Aug 6 2023 - Built a wikipedia clone. Reveiwed basic JavaScript, ES6, and basic Algrothims freecodecamp](https://github.com/renata1026/my-developer-journey/blob/main/Aug-6-2023.md)
 
