@@ -1,0 +1,22 @@
+Yesterday, reviewed Javascript basics such as variable, type conversion, string, strict equality, spread, slice, 
+not operator, arithimic expressions, math methods, and if statements.
+
+📖 Currently, we reviewed in our lesson what is javascript, how to add a script tag, and using let or const to declare variables. 
+For our assignment I created an ASCII art so people could ask "What animal is this?":
+https://animal-art.netlify.app/
+
+🎯 My goal today is to do Free Code Camps beginner Algorithim questions.
+```
+Return an array consisting of the largest number from each provided sub-array. For simplicity, the provided array will contain exactly 4 sub-arrays.
+
+const largestOfFour = (arr) => {
+const maxArray = [];
+for (let i= 0 ; i < arr.length ; i++){
+const max = Math.max(...arr[i])
+maxArray.push(max)
+}
+return maxArray
+}
+
+largestOfFour([[4, 5, 1, 3], [13, 27, 18, 26], [32, 35, 37, 39], [1000, 1001, 857, 1]]);
+```
