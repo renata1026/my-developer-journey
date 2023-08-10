@@ -1,4 +1,5 @@
 # my-developer-journey
+[Aug 9 2023 - Week 2 Day 3 Did functions exercise ](https://github.com/renata1026/my-developer-journey/blob/main/Aug-8-2023.md)
 
 [Aug 8 2023 - Week 2 Day 2 Did a loop exercise ](https://github.com/renata1026/my-developer-journey/blob/main/Aug-8-2023.md)
 
