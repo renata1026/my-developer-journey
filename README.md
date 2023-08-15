@@ -1,6 +1,6 @@
 # my-developer-journey
 
-[Aug 15 2023 - Week 3 Day 1 Completed a DOM project ](https://github.com/renata1026/my-developer-journey/blob/main/Aug-8-2023.md)
+[Aug 15 2023 - Week 3 Day 1 Completed a DOM project and did some Code Wars ](https://github.com/renata1026/my-developer-journey/blob/main/Aug-8-2023.md)
 
 [Aug 11 2023 - Week 2 Day 4 Completed a guessing game based on loops and functions ](https://github.com/renata1026/my-developer-journey/blob/main/Aug-8-2023.md)
 
