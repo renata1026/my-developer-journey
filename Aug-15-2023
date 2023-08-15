@@ -2,4 +2,21 @@
 
 📖 Currently, I am learning about the DOM. Here is the exercise that I did https://dom-hack-my-head.netlify.app/.
 
+```
+We need a function that can transform a number (integer) into a string.
+
+What ways of achieving this do you know?
+
+Examples (input --> output):
+123  --> "123"
+999  --> "999"
+-100 --> "-100"
+
+function numberToString(num) {
+  // Return a string of the number here!
+  return num.toString();
+}
+
+```
+
 🎯 My goal is to complete this project for today and to review event listening for tomorrow's lecture.
