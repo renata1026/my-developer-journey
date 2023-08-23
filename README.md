@@ -1,4 +1,5 @@
 # my-developer-journey
+[Aug 20 2023 - Week 4 Day 2 Recreated Javascript project in React reviewing ternary operators, spread operator ](https://github.com/renata1026/my-developer-journey/blob/main/Aug-8-2023.md)
 
 [Aug 20 2023 - Week 3 Day 5 Completed a Final JS project and preparing for React ](https://github.com/renata1026/my-developer-journey/blob/main/Aug-8-2023.md)
 
