@@ -1,15 +1,15 @@
 # my-developer-journey
-[Aug 20 2023 - Week 4 Day 2 Recreated Javascript project in React reviewing ternary operators, spread operator ](https://github.com/renata1026/my-developer-journey/blob/main/Aug-8-2023.md)
+[Aug 22 2023 - Week 4 Day 2 Recreated Javascript project in React reviewing ternary operators, spread operator ](https://github.com/renata1026/my-developer-journey/blob/main/Aug-22-2023.md)
 
-[Aug 20 2023 - Week 3 Day 5 Completed a Final JS project and preparing for React ](https://github.com/renata1026/my-developer-journey/blob/main/Aug-8-2023.md)
+[Aug 20 2023 - Week 3 Day 5 Completed a Final JS project and preparing for React ](https://github.com/renata1026/my-developer-journey/blob/main/Aug-20-2023.md)
 
-[Aug 15 2023 - Week 3 Day 1 Completed a DOM project and did some Code Wars ](https://github.com/renata1026/my-developer-journey/blob/main/Aug-8-2023.md)
+[Aug 15 2023 - Week 3 Day 1 Completed a DOM project and did some Code Wars ](https://github.com/renata1026/my-developer-journey/blob/main/Aug-15-2023.md)
 
-[Aug 11 2023 - Week 2 Day 4 Completed a guessing game based on loops and functions ](https://github.com/renata1026/my-developer-journey/blob/main/Aug-8-2023.md)
+[Aug 11 2023 - Week 2 Day 4 Completed a guessing game based on loops and functions ](https://github.com/renata1026/my-developer-journey/blob/main/Aug-11-2023.md)
 
-[Aug 10 2023 - Week 2 Day 3 Did codewars problems](https://github.com/renata1026/my-developer-journey/blob/main/Aug-8-2023.md)
+[Aug 10 2023 - Week 2 Day 3 Did codewars problems](https://github.com/renata1026/my-developer-journey/blob/main/Aug-10-2023.md)
 
-[Aug 9 2023 - Week 2 Day 3 Did functions exercise ](https://github.com/renata1026/my-developer-journey/blob/main/Aug-8-2023.md)
+[Aug 9 2023 - Week 2 Day 3 Did functions exercise ](https://github.com/renata1026/my-developer-journey/blob/main/Aug-9-2023.md)
 
 [Aug 8 2023 - Week 2 Day 2 Did a loop exercise ](https://github.com/renata1026/my-developer-journey/blob/main/Aug-8-2023.md)
 
@@ -17,7 +17,7 @@
 
 [Aug 6 2023 - Built a wikipedia clone. Reveiwed basic JavaScript, ES6, and basic Algrothims freecodecamp](https://github.com/renata1026/my-developer-journey/blob/main/Aug-6-2023.md)
 
-[Aug 4 2023 - Day 4 of Fullstack bootcamp. Building a wikipedia clone](https://github.com/renata1026/my-developer-journey/blob/main/Aug-2-2023.md)
+[Aug 4 2023 - Day 4 of Fullstack bootcamp. Building a wikipedia clone](https://github.com/renata1026/my-developer-journey/blob/main/Aug-4-2023.md)
 
 [Aug 2 2023 - Day 3 of Fullstack bootcamp. Built a froggie site utilizing basic flexbox principles](https://github.com/renata1026/my-developer-journey/blob/main/Aug-2-2023.md)
 
