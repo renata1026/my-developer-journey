@@ -1,6 +1,6 @@
 # my-developer-journey
 
-[Aug 24 2023 - Week 4 Day 4 Creating a React Project Hungry Pets](https://github.com/renata1026/my-developer-journey/blob/main/Aug-22-2023.md)
+[Aug 24 2023 - Week 4 Day 4 Creating a React Project Hungry Pets](https://github.com/renata1026/my-developer-journey/blob/main/Aug-24-2023.md)
 
 [Aug 22 2023 - Week 4 Day 2 Recreated Javascript project in React reviewing ternary operators, spread operator ](https://github.com/renata1026/my-developer-journey/blob/main/Aug-22-2023.md)
 
