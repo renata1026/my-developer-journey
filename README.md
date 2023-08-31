@@ -1,5 +1,7 @@
 # my-developer-journey
 
+[Aug 31 2023 - Week 5 Day 4 API Calls - POST, PUT, GET requests and learning about GIT and GitHub ](https://github.com/renata1026/my-developer-journey/blob/main/Aug-29-2023.md)
+
 [Aug 29 2023 - Week 5 Day 2 API Calls - POST, PUT, GET requests ](https://github.com/renata1026/my-developer-journey/blob/main/Aug-29-2023.md)
 
 [Aug 27 2023 - Week 5 Day 1 Async API Calls in React](https://github.com/renata1026/my-developer-journey/blob/main/Aug-27-2023.md)
