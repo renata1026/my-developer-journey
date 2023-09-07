@@ -1,5 +1,7 @@
 # my-developer-journey
 
+[Sept 6 2023 - Week 6 Day 3 Completed BackEnd server and database of spammer project](https://github.com/renata1026/my-developer-journey/blob/main/Sept-04-2023.md)
+
 [Sept 4 2023 - Week 6 Day 1 POST, PUT, GET requests using Express and Render to Deploy](https://github.com/renata1026/my-developer-journey/blob/main/Sept-04-2023.md)
 
 [Aug 31 2023 - Week 5 Day 4 API Calls - POST, PUT, GET requests and learning about GIT and GitHub ](https://github.com/renata1026/my-developer-journey/blob/main/Aug-31-2023.md)
