@@ -1,5 +1,9 @@
 # my-developer-journey
 
+[Sept 13 2023 - Week 7 Day 3 Completed a Gallery API fetch project and learned about React Router ](https://github.com/renata1026/my-developer-journey/blob/main/Sept-13-2023.md)
+
+[Sept 11 2023 - Week 7 Day 1 Completed Full Stack spammer a CRUD project using React on the Front end and Prisma, Express, and Coachroach DB on the backend. ](https://github.com/renata1026/my-developer-journey/blob/main/Sept-11-2023.md)
+
 [Sept 6 2023 - Week 6 Day 3 Completed BackEnd server and database of spammer project](https://github.com/renata1026/my-developer-journey/blob/main/Sept-06-2023.md)
 
 [Sept 4 2023 - Week 6 Day 1 POST, PUT, GET requests using Express and Render to Deploy](https://github.com/renata1026/my-developer-journey/blob/main/Sept-04-2023.md)
