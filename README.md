@@ -1,5 +1,7 @@
 # my-developer-journey
 
+[Sept 22 2023 - Week 8 Day 5 Completed Backend of Reddit Clone ](https://github.com/renata1026/my-developer-journey/blob/main/Sept-16-2023.md)
+
 [Sept 16 2023 - Week 7 Day 5 Redeployed my portfolio converting it to React from JS ](https://github.com/renata1026/my-developer-journey/blob/main/Sept-16-2023.md)
 
 [Sept 13 2023 - Week 7 Day 3 Completed a Gallery API fetch project and learned about React Router ](https://github.com/renata1026/my-developer-journey/blob/main/Sept-13-2023.md)
