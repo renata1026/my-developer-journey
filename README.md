@@ -1,6 +1,6 @@
 # my-developer-journey
 
-[Oct 29 2023 - Studing the Joy of React Module 1 ](https://github.com/renata1026/my-developer-journey/blob/main/Oct-24-2023.md)
+[Oct 29 2023 - Studing the Joy of React Module 1 ](https://github.com/renata1026/my-developer-journey/blob/main/Oct-29-2023.md)
 
 [Oct 24 2023 - Week 12 Completed Capstone Project Astro Planner](https://github.com/renata1026/my-developer-journey/blob/main/Oct-24-2023.md)
 
