@@ -1,5 +1,9 @@
 # my-developer-journey
 
+[Nov 06 2023 - Codewars questions and review Next.js backend with prisma](https://github.com/renata1026/my-developer-journey/blob/main/Nov-06-2023.md)
+
+[Nov 02 2023 - Converted front end from react to next.js](https://github.com/renata1026/my-developer-journey/blob/main/Nov-02-2023.md)
+
 [Oct 31 2023 - Created Backend API Routes](https://github.com/renata1026/my-developer-journey/blob/main/Oct-31-2023.md)
 
 [Oct 30 2023 - Created Prisma schema job board](https://github.com/renata1026/my-developer-journey/blob/main/Oct-30-2023.md)
