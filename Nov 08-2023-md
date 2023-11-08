@@ -1,0 +1,15 @@
+📖 Yesterday, on a udemy course called 70+ JavaScript Challenges: Data Structures & Algorithms. 
+
+💻 Today, I worked with my team member on the backend of our job board app. https://github.com/jobi-job-board/job-board
+We also solved a codewars problem together. 
+
+In this kata you will create a function that takes a list of non-negative integers and strings and returns a new list with the strings filtered out.
+
+```
+function filter_list(list) {
+  // Return a new array with the strings filtered out
+  return list.filter((item)=> typeof item === 'number' );
+}
+```
+
+🎯 Later, I will be looking at module 2 of joy of react. 
