@@ -1,5 +1,7 @@
 # my-developer-journey
 
+[Nov 08 2023 - Completed user route for Next.js project and a codewars question](https://github.com/renata1026/my-developer-journey/blob/main/Nov-08-2023.md)
+
 [Nov 06 2023 - Codewars questions and review Next.js backend with prisma](https://github.com/renata1026/my-developer-journey/blob/main/Nov-06-2023.md)
 
 [Nov 02 2023 - Converted front end from react to next.js](https://github.com/renata1026/my-developer-journey/blob/main/Nov-02-2023.md)
