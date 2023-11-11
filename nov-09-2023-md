@@ -1,0 +1,49 @@
+📖 Yesterday, I worked with my team member on the backend of our job board app. https://github.com/jobi-job-board/job-board
+We also solved a codewars problem togetheon a udemy course called 70+ JavaScript Challenges: Data Structures & Algorithms. 
+
+💻 Today, I did codewar problems.
+Simple, given a string of words, return the length of the shortest word(s).
+String will never be empty and you do not need to account for different data types.
+
+```
+function findShort(s){
+  let array = s.split(" ")
+  let sorted = array.sort((a, b) => a.length - b.length);
+  return sorted[0].length
+}
+```
+
+Our football team has finished the championship.
+
+Our team's match results are recorded in a collection of strings. Each match is represented by a string in the format "x:y", where x is our team's score and y is our opponents score.
+
+For example: ["3:1", "2:2", "0:1", ...]
+
+Points are awarded for each match as follows:
+
+if x > y: 3 points (win)
+if x < y: 0 points (loss)
+if x = y: 1 point (tie)
+We need to write a function that takes this collection and returns the number of points our team (x) got in the championship by the rules given above.
+
+Notes:
+
+```
+function points(games) {
+  let points = 0;
+  for( let i = 0; i< 10; i++){
+  let us = games[i].charAt(0)  
+  let opponent = games[i].charAt(2)   
+  if(us > opponent ){
+    points = points + 3
+  } else if(us === opponent){
+        points++
+  }
+  }
+  return points
+}
+
+
+```
+
+🎯 Later, I will be looking at module 2 of joy of react. 
